@@ -43,7 +43,7 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "C#", "Python", "Javascript", "Java", "c++" },
+    "ProgramingLanguages" : { " C# ", " Python", "Javascript", "Java", "c++" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json" },
     "Database" : { "SQL SERVER","Firebase", "Sqlite" },
     "Editors" : { "Vscode", "Visual Studio", "Cursor" ,"Trae" },
