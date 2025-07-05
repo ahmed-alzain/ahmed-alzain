@@ -59,22 +59,21 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Programming Minds and Machines: "The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly.<br>
 
 <div align="center" >
+<a  href="https://github.com/SP-XD">
 
-<a href="https://github.com/Ahmed-Alzain">
-
-<img src="https://raw.githubusercontent.com/Ahmed-Alzain/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Ahmed-Alzain/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Ahmed-Alzain/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
-
-<img align="center" src="https://raw.githubusercontent.com/Ahmed-Alzain/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
-
+  
 <hr></hr>
 
 
